@@ -1,0 +1,10 @@
+bcground
+foreground
+
+Card:
+    icon
+    text
+    footer
+        tag
+        data
+        icon
